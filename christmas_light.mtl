@@ -1,0 +1,44 @@
+newmtl christmas_light:CableFBXASC0451FBXASC046001SG
+illum 4
+Kd 0.52 0.38 0.25
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl christmas_light:CurveFBXASC046002SG
+illum 4
+Kd 0.84 0.84 0.84
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl christmas_light:GlassPearlSG
+illum 4
+Kd 0.42 0.66 0.41
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.54 0.54 0.54
+Ns 75.25
+newmtl christmas_light:GlassSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.53 0.53 0.53
+Ns 47.22
+newmtl christmas_light:LightSG
+illum 4
+Kd 1.00 0.54 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl christmas_light:PlasticSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.19 0.19 0.19
+Ns 31.73
